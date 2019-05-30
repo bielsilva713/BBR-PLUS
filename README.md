@@ -6,7 +6,7 @@ chmod +x tcp.sh
 ```
 #备用脚本
 ```
-wget -N --no-check-certificate "https://raw.githubusercontent.com/sembrono/Linux-NetSpeed/master/tcp.sh"
+wget -N --no-check-certificate "https://raw.githubusercontent.com/sembrono/BBR-PLUS/master/tcp.sh"
 chmod +x tcp.sh
 ./tcp.sh
 ```
