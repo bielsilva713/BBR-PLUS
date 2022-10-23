@@ -1,12 +1,12 @@
-#执行BBR PLUS修正版一键脚本
+#Execute o script de um clique da versão revisada do BBR PLUS
 ```
 wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh"
 chmod +x tcp.sh
 ./tcp.sh
 ```
-#备用脚本
+#roteiro alternativo
 ```
-wget -N --no-check-certificate "https://raw.githubusercontent.com/sembrono/BBR-PLUS/master/tcp.sh"
+wget -N --no-check-certificate "https://raw.githubusercontent.com/bielsilva713/BBR-PLUS/master/tcp.sh"
 chmod +x tcp.sh
 ./tcp.sh
 ```
